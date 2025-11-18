@@ -10,6 +10,6 @@ Hook: useRef (para controlar timer de novas buscas)
 
 Biblioteca UI: Styled Components (para estilizar o card do conselho)
 
-Simplicidade: Apenas 1 botão + área de texto
+Simplicidade: Apenas 1 botão + área de texto 
 
 Link do Pages: https://matheusrossieri.github.io/gerador_conselhos/
