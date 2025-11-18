@@ -6,7 +6,7 @@ Tecnologias:
 
 API: Advice Slip API (https://api.adviceslip.com/advice)
 
-Hook: useRef (para controlar timer de novas buscas)
+Hook: useRef (para controlar timer de novas buscas) 
 
 Biblioteca UI: Styled Components (para estilizar o card do conselho)
 
