@@ -4,7 +4,7 @@ Projeto referente à matéria de Programação Web Fullstack
 
 Tecnologias:
 
-API: Advice Slip API (https://api.adviceslip.com/advice) 
+API: Advice Slip API (https://api.adviceslip.com/advice)
 
 Hook: useRef (para controlar timer de novas buscas)
 
